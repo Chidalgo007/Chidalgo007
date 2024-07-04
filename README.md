@@ -1,11 +1,11 @@
-## Hi, I'm Christian.
+## Hi, I'm Christian 👋.  
 
-Studying a Bachelor of Computer and Information Sciences with a double major in [Software Development](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/software-development-major) and [Data Sciences](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/data-science-major-bachelor-of-computer-and-information-sciences) at the Auckland University of Technology [AUT](https://www.aut.ac.nz/).
+👨‍🎓 Studying a Bachelor of Computer and Information Sciences with a double major in [Software Development](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/software-development-major) and [Data Sciences](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/data-science-major-bachelor-of-computer-and-information-sciences) at the Auckland University of Technology [AUT](https://www.aut.ac.nz/).
 
-I am currently enhancing my expertise in Java projects and possess foundational knowledge in HTML, CSS, JavaScript, Python and SQL.</br> 
-I am committed to continuous learning, with a particular interest in developing skills for Android and desktop applications.
+📚 I am currently enhancing my expertise in Java projects and possess foundational knowledge in HTML, CSS, JavaScript, Python and SQL.</br> 
+📱 I am committed to continuous learning, with a particular interest in developing skills for Android and desktop applications.
 
-## Tech Stack
+## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -22,5 +22,5 @@ I am committed to continuous learning, with a particular interest in developing 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidalgo007&show_icons=true&theme=monokai)
