@@ -2,7 +2,7 @@
 
 👨‍🎓 I am currently pursuing a Bachelor of Computer and Information Sciences with a double major in [Software Development](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/software-development-major) and [Data Sciences](https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/data-science-major-bachelor-of-computer-and-information-sciences) at the Auckland University of Technology [AUT](https://www.aut.ac.nz/).
 
-📚 I am currently enhancing my expertise in Java projects and possess foundational knowledge in HTML, CSS, JavaScript, Python and SQL.</br> 
+📚 I am currently enhancing my expertise in React JS projects and possess foundational knowledge in HTML, CSS, JavaScript, Java, Python and SQL.</br> 
 📱 I am committed to continuous learning, with a particular interest in developing skills for Android and desktop applications.
 
 ## 💻 Tech Stack
